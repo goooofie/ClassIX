@@ -3,7 +3,7 @@
 
 ClassIX simplifies gaming history by bundling six generations of consoles into one convenient emulation pack. No need to search endlessly for ROMs and emulators—everything from NES and Genesis to PS2 is included for a seamless gaming experience.
 
-# Features:
+# Advantages:
 **All-in-One Solution:** Access six generations of consoles in a single pack, eliminating the need for multiple downloads and installations.
 
 **Saves Time and Effort:** Say goodbye to the hassle of hunting down individual ROMs and emulators. ClassIX provides a comprehensive collection in one place.
