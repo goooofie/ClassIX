@@ -1,6 +1,3 @@
-# ClassIX
-ClassIX: Your six gaming generations in one huge emulation pack.
 
-Tired of endlessly downloading crap tons of roms, emulators, etc.?
-## We got you covered.
-In ClassIX, we have 6 generations of consoles ranging from from the NES and Genisis, to the PS2 and Genisis.
+# ClassIX: Your six gaming generations in one huge emulation pack.
+ClassIX simplifies gaming history by bundling six generations of consoles into one convenient emulation pack. No need to search endlessly for ROMs and emulators—everything from NES and Genesis to PS2 is included for a seamless gaming experience.
