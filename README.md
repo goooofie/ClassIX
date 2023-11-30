@@ -12,10 +12,6 @@ ClassIX simplifies gaming history by bundling six generations of consoles into o
 
 **Convenience:** Simplifies the process of accessing and playing games across various generations, making it easier for gamers to explore and enjoy diverse titles without complexities.
 
-**Preservation of Gaming History:** Allows access to classic games and consoles, preserving gaming history for enthusiasts and newcomers alike.
-
-**Compatibility and Integration:** Ensures compatibility and integration across different platforms and systems, enabling easy setup and usage for gaming enthusiasts.
-
 # Why not Retroarch?
 While Retroarch is very good for the majority of people, ClassIX includes ROMS, is even simpler to use, and includes guides built in. Just straight to the point, no need to launch a application for your games. Just open the emulator, and your basically done.
 
