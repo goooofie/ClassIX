@@ -3,7 +3,7 @@
 
 ClassIX simplifies gaming history by bundling six generations of consoles into one convenient emulation pack. No need to search endlessly for ROMs and emulators—everything from NES and Genesis to PS2 is included for a seamless gaming experience. Unlike Retroarch, ClassIX is simply a large file with mulitple folders. No need for an installation of anything. Simple if you just want everything you need, straight to the point.
 
-⚠️ CLASSIX IS AROUND 50GB! IF YOU WOULD LIKE SOMETHING SMALLER, CHECK OUT BASIX ⚠️
+⚠️ **CLASSIX IS AROUND 50GB! IF YOU WOULD LIKE SOMETHING SMALLER, CHECK OUT BASIX** ⚠️
 
 # Advantages:
 **All-in-One Solution:** Access six generations of consoles in a single pack, eliminating the need for multiple downloads and installations.
