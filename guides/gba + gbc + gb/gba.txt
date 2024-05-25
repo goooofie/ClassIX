@@ -1,0 +1,22 @@
+[GBA/GBC/GB GUIDE]
+
+Open "ClassIX"
+Open "roms + emulators + bios"
+Open "emulators"
+Open "gba + gbc + gb"
+Run "visualboyadvance-m.exe"
+In VBA, go to your top left
+Press "File" and select one of these options:
+
+Open… – to open a Game Boy Advance game file.
+Open GBC – for Game Boy Color games.
+Open GB – for classic Game Boy titles
+
+Open "ClassIX"
+Open "roms + emulators + bios"
+Open "roms"
+Open "gba + gbc + gb"
+Double click on the file of your game
+Done!
+
+
