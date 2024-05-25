@@ -10,7 +10,7 @@ ClassIX simplifies gaming history by bundling six generations of consoles into o
 
 **Saves Time and Effort:** Say goodbye to the hassle of hunting down individual ROMs and emulators. ClassIX provides a comprehensive collection in one place.
 
-**Seamless Gaming Experience:** Enjoy a smooth gaming experience across different eras, from classic consoles like NES and Genesis to more advanced systems like PS2, all within a unified interface.
+**Seamless Emulation Experience:** Enjoy a smooth gaming experience across different eras, from classic consoles like NES and Genesis to more advanced systems like PS2, all within a unified interface.
 
 **Convenience:** Simplifies the process of accessing and playing games across various generations, making it easier for gamers to explore and enjoy diverse titles without complexities.
 
