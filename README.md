@@ -5,6 +5,18 @@ ClassIX simplifies gaming history by bundling six generations of consoles into o
 
 ⚠️ **CLASSIX IS AROUND 50GB DUE TO THE MANY ROMS AND EMULATORS! BASICX IS MUCH SMALLER!** ⚠️
 
+# Features:
+**Coverarts,** amount will be expanded upon newer releases, currently only avalible for PS2.
+
+**Guides,** currently avalible for the Dreamcast, NES, GBA, GBC, GB, and PS2. These explain how to play your roms and install your bios/emulators.
+
+**Roms,** most consoles supported, dreamcast, gamecube, GBA, GBC, GB, NES, PS1, PS2, though dreamcast/gamecube/ps2 roms are limited due to size.
+
+**Bios,** support for PS1/PS2 currently.
+
+**Emulators,** currently supports dreamcast, gamecube, GBA, GBC, GB, NES, PS1, PS2. These are needed to play your roms.
+
+
 # Advantages:
 **All-in-One Solution:** Access six generations of consoles in a single pack, eliminating the need for multiple downloads and installations.
 
