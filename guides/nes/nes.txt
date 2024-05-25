@@ -4,7 +4,7 @@ You do NOT have to install bios to play NES games
 
 MESEN GUIDE
 
-Open "Classicix"
+Open "ClassIX"
 Open "roms + emulators + bios"
 Open "emulators"
 Open "nes"
