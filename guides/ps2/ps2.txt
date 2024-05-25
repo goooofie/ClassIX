@@ -4,7 +4,7 @@ You MUST install the ps2 bios to play ps2 games
 
 PCSX2 GUIDE
 
-Open "Classicix"
+Open "ClassIX"
 Open "roms + emulators + bios"
 Open "emulators"
 Open "ps2"
@@ -42,7 +42,7 @@ PS2 COVERART GUIDE (NOT REQUIRED)
 
 In PCSX2, right click on your chosen game
 Press "Set Cover Image"
-Open "Classicix"
+Open "ClassIX"
 Go to "coverart"
 Select your image for your chosen game
 Done!
